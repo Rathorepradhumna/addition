@@ -5,4 +5,6 @@ int main()
 	//program for addition of 2 number
 	int a;
 	int b;
+	cin>>a;
+	cin>>b;
 }
